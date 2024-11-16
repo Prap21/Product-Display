@@ -11,7 +11,8 @@ Clean Code: Well-structured and easy-to-understand HTML, CSS, and JavaScript.
 - **JavaScript** for interactivity
 ---
 🚀 Live Demo
-Check out the live version here: 
+Check out the live version here: [Product Display](https://Prap21.github.io/Product-Display/)
+
 
 Contact Me
 --
